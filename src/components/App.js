@@ -26,7 +26,7 @@ function AppUI() {
     <Layout>
       <Navbar>
         {isLoggedIn && <Button onClick={handleLogout}>Logout</Button>}
-        <AppTitle>MongoDB Stitch To-Do Tutorial</AppTitle>
+        <AppTitle>Aceso</AppTitle>
       </Navbar>
       {isLoggedIn ? <TodoApp /> : <Login />}
     </Layout>
