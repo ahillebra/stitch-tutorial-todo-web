@@ -14,7 +14,7 @@ export default function TodoInput(props) {
       <TextInput
         {...inputProps}
         type="text"
-        placeholder="What Do You Need To Do?"
+        placeholder="Patient"
       />
       <ActionButton action={props.addTodo}>Add To-Do</ActionButton>
     </Container>
