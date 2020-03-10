@@ -42,7 +42,7 @@ const NoTodoItems = props => {
             {" "}
             🎉{" "}
           </span>
-          All done! Enjoy your day!
+          The key to health is happiness!
         </span>
       ) : (
         <span>
