@@ -46,8 +46,7 @@ const NoTodoItems = props => {
         </span>
       ) : (
         <span>
-          Enter some text and click <strong>Add</strong> to save your first
-          to-do task
+          Add patient name and click <strong> Add </strong> to save patient.
         </span>
       )}
     </Layout>
