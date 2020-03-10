@@ -19,7 +19,7 @@ export default function TodoApp() {
       <Layout>
         <TodoCard>
           <Title>
-            <h1>Your To-Do List</h1>
+            <h1>Appointments</h1>
           </Title>
           <TodoControls {...todo} />
           <TodoList {...todo} />
